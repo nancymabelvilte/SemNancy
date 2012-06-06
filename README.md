@@ -1,2 +1,2 @@
-SemNancy
-========
+Seminario de Nancy Vilte
+========================
