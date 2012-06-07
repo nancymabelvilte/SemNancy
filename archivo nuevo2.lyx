@@ -5,7 +5,7 @@
 \textclass article
 \use_default_options true
 \maintain_unincluded_children false
-\language english
+\language spanish
 \language_package default
 \inputencoding auto
 \fontencoding global
@@ -25,6 +25,7 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
+\spacing single
 \use_hyperref false
 \papersize default
 \use_geometry false
@@ -59,11 +60,11 @@
 
 \begin_body
 
-\begin_layout Standard
+\begin_layout Section
 LIBRO: CONTENIDOS BÁSICOS COMUNES PARA LA EGB 1994
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsection
 7°AÑO
 \end_layout
 
@@ -76,7 +77,8 @@ LIBRO: CONTENIDOS BÁSICOS COMUNES PARA LA EGB 1994
 \begin_layout Standard
 2.
  Representaciones verbales y gráficas de recorridos.
- Puntos de referencia.Codificación de desplazamiento.
+ Puntos de referencia.
+ Codificación de desplazamiento.
  Cambios de dirección (giros).
 \end_layout
 
@@ -104,7 +106,7 @@ LIBRO: CONTENIDOS BÁSICOS COMUNES PARA LA EGB 1994
  Movimientos: figuras simétricas.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsection
 8° AÑO
 \end_layout
 
@@ -129,16 +131,16 @@ LIBRO: CONTENIDOS BÁSICOS COMUNES PARA LA EGB 1994
 
 \begin_layout Standard
 3.
- Angulos: concepto.
+ Ángulos: concepto.
  Clasificación (recto, agudo, obtuso).
  Relaciones entre ángulos.
- Angulos de un triángulo.
+ Ángulos de un triángulo.
  Propiedades.
 \end_layout
 
 \begin_layout Standard
 4.
- Figuras: elementos y propiedades de triángulos y cuadrilateros.
+ Figuras: elementos y propiedades de triángulos y cuadriláteros.
  La circunferencia y el círculo.
  Construcciones con regla y compás.
 \end_layout
@@ -157,7 +159,7 @@ LIBRO: CONTENIDOS BÁSICOS COMUNES PARA LA EGB 1994
  Noción de congruencia y semejanza.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsection
 9°AÑO
 \end_layout
 
@@ -179,18 +181,18 @@ LIBRO: CONTENIDOS BÁSICOS COMUNES PARA LA EGB 1994
 
 \begin_layout Standard
 4.
- Mediatrices, bisctrices.
+ Mediatrices, bisectrices.
 \end_layout
 
 \begin_layout Standard
 5.
- Circunferencias inscriptas y circunscriptas en un triángulo.
+ Circunferencias inscriptas y circunscritas en un triángulo.
 \end_layout
 
 \begin_layout Standard
 6.
  Figuras: polígonos y círculos, elementos, propiedades.
- Relaciones entre f ormas.
+ Relaciones entre formas.
  Propiedades de los ángulos de un polígono convexo.
  Construcciones de figuras con regla y compás.
 \end_layout
@@ -225,7 +227,7 @@ s).
 \end_layout
 
 \begin_layout Standard
-NAP NUCLEOS de APRENDIZAJE PRIORITARIOS 1995
+NAP NÚCLEOS de APRENDIZAJE PRIORITARIOS 1995
 \end_layout
 
 \begin_layout Standard
