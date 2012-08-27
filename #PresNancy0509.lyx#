@@ -29,6 +29,11 @@
 \renewenvironment{example}{\begin{ejem}}{\end{ejem}}
 \renewenvironment{theorem}{\begin{teo}}{\end{teo}}
 \renewenvironment{corollary}{\begin{cor}}{\end{cor}}
+
+\colorlet{mystruct}{structure} % Guarda la estructura actual 
+\colorlet{structure}{magenta} % Nueva estructura 
+\usestructuretemplate{\color{structure}}{} 
+\beamertemplateshadingbackground{yellow!50}{blue!50}
 \end_preamble
 \use_default_options false
 \begin_modules
@@ -785,7 +790,11 @@ status open
 
 \end_inset
 
- Arquímides.
+ 
+\color red
+Arquímedes
+\color inherit
+.
  El amplio la lista de los postulados geométricos, y completo la exposición
  de Euclides en la teoría de medición de longitudes, áreas y volúmenes.
  
@@ -836,7 +845,7 @@ Riemann;
 \end_layout
 
 \begin_layout BeginFrame
-Extensión de una extensión
+Euclides y Arquímedes
 \end_layout
 
 \begin_layout ColumnsTopAligned
