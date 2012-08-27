@@ -791,7 +791,7 @@ status open
  
 \end_layout
 
-\begin_layout Pause
+\begin_layout BeginFrame
 
 \end_layout
 
@@ -835,6 +835,86 @@ Lobachevski,
 Riemann; 
 \end_layout
 
+\begin_layout BeginFrame
+Extensión de una extensión
+\end_layout
+
+\begin_layout ColumnsTopAligned
+
+\end_layout
+
+\begin_deeper
+\begin_layout Column
+5cm
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+Mientras Euclides 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ establece únicamente relaciones entre longitudes, áreas y volúmenes, mostrando
+ por ejemplo, que las áreas de los círculos son como los cuadrados de los
+ radios, y los volúmenes, de esferas como los cubos de los radios
+\end_layout
+
+\end_deeper
+\begin_layout ColumnsTopAligned
+
+\end_layout
+
+\begin_deeper
+\begin_layout Column
+6cm
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+Arquímedes
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ presenta expresiones que permiten calcular las magnitudes correspondientes.
+ Este último introdujo cinco postulados, a fin de fundamentar la geometría
+ métrica.
+ (Pero no pueden considerarse como postulados, ya que pueden ser demostrados).
+ 
+\end_layout
+
+\end_deeper
 \begin_layout Section
 Documentos Actuales
 \end_layout
@@ -850,10 +930,7 @@ status open
 
 \end_inset
 
- El minis
-terio de educació
-\lang spanish
-n 
+ El ministerio de educación 
 \begin_inset ERT
 status open
 
