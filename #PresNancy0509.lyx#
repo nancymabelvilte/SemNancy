@@ -291,7 +291,7 @@ Marca de Institución
 status open
 
 \begin_layout Plain Layout
-Luis, Antonio
+Nancy, Antonio
 \begin_inset Note Note
 status open
 
@@ -673,7 +673,7 @@ La Geometria Sintética
 \end_layout
 
 \begin_layout BeginFrame
-Consideraciones 
+Geométria Sintética 
 \begin_inset Note Note
 status open
 
@@ -722,25 +722,11 @@ status open
 
 \end_inset
 
- CAMBIAR se hace necesario tratar con conceptos como extensiones de cuerpos,
- que nos habla de posibilidad (o no) de poder construir puntos a partir
- de otros puntos dados.
- Estos conceptos fueron principalmente obtenidos del libro 
-\begin_inset CommandInset citation
-LatexCommand citet
-key "hungerford1974algebra"
-
-\end_inset
-
-y 
-\begin_inset CommandInset citation
-LatexCommand citep
-key "stewart2004galois"
-
-\end_inset
-
-.
- Las cuales se presentarán sin demostración.
+ Durante más de dos siglos los ‘‘Elementos’’ de Euclides (330 - 275) fueron
+ el indiscutible libro de texto de las escuelas para la enseñanza de las
+ matemáticas.
+ Los mismos estaban divididos en trece libros, que contienen el material
+ correspondiente a la geometría elemental propiamente dicha.
 \end_layout
 
 \begin_layout Pause
@@ -769,17 +755,40 @@ status open
 
 \end_inset
 
-contando que se conocen ya los conceptos de grupos, anillos y cuerpos, los
- cuales se mencionan en este trabajo, y fueron vistas en cursos de la carrera.
- Comenzaremos con una definición básica para lo subsiguiente.
+CAMBIAR 
 \end_layout
 
 \begin_layout Section
-Extensiones de Cuerpos
+Documentos Actuales
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
-Definiciones
+LINEAMIENTOS CURRICULARES
 \end_layout
 
 \begin_layout BeginFrame
