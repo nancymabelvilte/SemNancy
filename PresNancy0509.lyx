@@ -674,11 +674,11 @@ Si se omiten detalles vitales para una demostración/implementación, dígalo
 \end_layout
 
 \begin_layout Section
-La Geometria Sintética
+La Geometría Sintética
 \end_layout
 
 \begin_layout BeginFrame
-Geométria Sintética 
+Geometría Sintética 
 \begin_inset Note Note
 status open
 
@@ -716,7 +716,7 @@ status open
 
 \end_inset
 
-Es el tema cuya enseñanza ha sufrido cambios en las ultimas décadas 
+ Euclides 
 \begin_inset ERT
 status open
 
@@ -727,18 +727,16 @@ status open
 
 \end_inset
 
- Durante más de dos siglos los ‘‘Elementos’’ de Euclides (330 - 275) fueron
- el indiscutible libro de texto de las escuelas para la enseñanza de las
- matemáticas.
- Los mismos estaban divididos en trece libros, que contienen el material
- correspondiente a la geometría elemental propiamente dicha.
+ Su obra los ''Elementos'' estaba dividida en trece capítulos.
+ Contienen el material correspondiente a la geometría elemental propiamente
+ dicha.
 \end_layout
 
 \begin_layout Pause
 
 \end_layout
 
-\begin_layout AlertBlock
+\begin_layout Block
 \begin_inset ERT
 status open
 
@@ -749,7 +747,7 @@ status open
 
 \end_inset
 
- El sistema de Euclides no era logicamente perfecto
+ La Geometría 
 \begin_inset ERT
 status open
 
@@ -760,8 +758,14 @@ status open
 
 \end_inset
 
- Pues faltaban premisas que Euclides admitía sin enunciar explícitamente.
- Lo cual obligaba a rehacer los fundamentos de la geometría.
+ ha sufrido cambios en su enseñanza en las ultimas décadas, los textos de
+ Euclides fueron el indiscutible libro de texto de las escuelas para la
+ enseñanza de las matemáticas.
+ 
+\end_layout
+
+\begin_layout Pause
+
 \end_layout
 
 \begin_layout BeginFrame
@@ -800,7 +804,7 @@ Arquímedes
  
 \end_layout
 
-\begin_layout BeginFrame
+\begin_layout Pause
 
 \end_layout
 
@@ -815,7 +819,7 @@ status open
 
 \end_inset
 
-Mientras Euclides 
+ Lobachevski 
 \begin_inset ERT
 status open
 
@@ -826,35 +830,149 @@ status open
 
 \end_inset
 
- establece únicamente relaciones entre longitudes, áreas y volúmenes, mostrando
- por ejemplo, que las áreas de los círculos son como los cuadrados de los
- radios, y los volúmenes, de esferas como los cubos de los radios, Arquímedes
- presenta expresiones que permiten calcular las magnitudes correspondientes.
- Este último introdujo cinco postulados, a fin de fundamentar la geometría
- métrica.
- (Pero no pueden considerarse como postulados, ya que pueden ser demostrados).
+ Conservando las premisas básicas de Euclides, construye un sistema lógico.
+ Desarrollando la geometría 'imaginaria' hasta llevarla al mismo nivel en
+ que se encontraba la de Euclides.
+ 
+\end_layout
+
+\begin_layout Pause
+
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+ Riemann 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ Al desarrollar los principios analíticos de la geometría obtuvo, un sistema
+ geométrico que difería tanto del euclidiano como del de Lobachevski.
+\end_layout
+
+\begin_layout BeginFrame
+Fundamentos de la Geometría
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+ Hilbert 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ Enuncia un sistema completo de axiomas de la geometría euclidiana, es decir,
+ una lista de premisas básicas de las cuales se pueden obtener todos los
+ demás resultados de esta geometría.
+\end_layout
+
+\begin_layout BeginFrame
+La matemática Moderna
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+ Cuestionamiento del conocimiento matemático
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ .
+ Para ello se llevo a cabo un seminario en Francia en la ciudad de Royaumont,
+ al cual asistieron distinguidos matemáticos, entre ellos el matemático
+ francés Nicolas Bourbaki,el cual estaba a favor de una reforma mas profunda.
+ 
+\end_layout
+
+\begin_layout Pause
+
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+ Jeans Dieudonne 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+Con su presentación, propuso un programa con el eslogan ¡Abajo Euclides!.
+ Exponía la critica a la enseñanza de la geometría axiomática iniciada por
+ Euclides y seguida por Hilbert.
  
 \end_layout
 
 \begin_layout Block
-Lobachevski, 
+
+\lang english
+Propuso cambios que se introdujeron con el nombre de matematica moderna.
+ Los mismos no tan solo fueron en los contenidos de los programas, sino
+ en la forma, las notaciones, el vocabulario, y la visión general de la
+ materia y de sus relaciones con otras materias como la física.
 \end_layout
 
-\begin_layout Block
-Riemann; 
-\end_layout
+\begin_layout Pause
 
-\begin_layout BeginFrame
-Euclides y Arquímedes
-\end_layout
-
-\begin_layout ColumnsTopAligned
-
-\end_layout
-
-\begin_deeper
-\begin_layout Column
-5cm
 \end_layout
 
 \begin_layout Block
@@ -868,7 +986,9 @@ status open
 
 \end_inset
 
-Mientras Euclides 
+
+\lang english
+La matemática moderna 
 \begin_inset ERT
 status open
 
@@ -879,51 +999,24 @@ status open
 
 \end_inset
 
- establece únicamente relaciones entre longitudes, áreas y volúmenes, mostrando
- por ejemplo, que las áreas de los círculos son como los cuadrados de los
- radios, y los volúmenes, de esferas como los cubos de los radios
-\end_layout
-
-\end_deeper
-\begin_layout ColumnsTopAligned
-
-\end_layout
-
-\begin_deeper
-\begin_layout Column
-6cm
-\end_layout
-
-\begin_layout Block
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-Arquímedes
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
- presenta expresiones que permiten calcular las magnitudes correspondientes.
- Este último introdujo cinco postulados, a fin de fundamentar la geometría
- métrica.
- (Pero no pueden considerarse como postulados, ya que pueden ser demostrados).
+ Al cabo dos o tres décadas, tenía mas detractores que seguidores.
  
 \end_layout
 
-\end_deeper
+\begin_layout Block
+
+\lang english
+Particularmente los educadores terminaron desechando el paradigma de la
+ Matemática Moderna acusandola en algún caso de impracticable.
+ Sin embargo, la existencia de la corriente denominada Matemática moderna
+ condujo a un desplazamiento de la Geometría Sintética de los contenidos
+ curriculares de los distintos niveles educativos.
+\end_layout
+
+\begin_layout BeginFrame
+
+\end_layout
+
 \begin_layout Section
 Documentos Actuales
 \end_layout
@@ -950,19 +1043,19 @@ status open
 
 \end_inset
 
-dejó
+ continuará...
 \end_layout
 
 \begin_layout Subsection
 LINEAMIENTOS CURRICULARES
 \end_layout
 
-\begin_layout Section
-Lo que haremos
+\begin_layout BeginFrame
+Lo que se esta Trabajando
 \end_layout
 
 \begin_layout BeginFrame
-Lo que se esta Trabajando
+Presentación de encuestas
 \begin_inset Note Note
 status open
 
