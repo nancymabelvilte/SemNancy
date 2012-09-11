@@ -33,7 +33,7 @@
 \colorlet{mystruct}{structure} % Guarda la estructura actual 
 \colorlet{structure}{magenta} % Nueva estructura 
 \usestructuretemplate{\color{structure}}{} 
-\beamertemplateshadingbackground{yellow!50}{blue!50}
+\beamertemplateshadingbackground{black!50}{white!50}
 \end_preamble
 \use_default_options false
 \begin_modules
@@ -674,11 +674,15 @@ Si se omiten detalles vitales para una demostración/implementación, dígalo
 \end_layout
 
 \begin_layout Section
-La Geometria Sintética
+Antecedentes Históricos de la Geometría
+\end_layout
+
+\begin_layout Subsection
+Grecia Antigua
 \end_layout
 
 \begin_layout BeginFrame
-Geométria Sintética 
+Euclides y Arquimedes 
 \begin_inset Note Note
 status open
 
@@ -716,7 +720,7 @@ status open
 
 \end_inset
 
-Es el tema cuya enseñanza ha sufrido cambios en las ultimas décadas 
+ Euclides 
 \begin_inset ERT
 status open
 
@@ -727,44 +731,12 @@ status open
 
 \end_inset
 
- Durante más de dos siglos los ‘‘Elementos’’ de Euclides (330 - 275) fueron
- el indiscutible libro de texto de las escuelas para la enseñanza de las
- matemáticas.
- Los mismos estaban divididos en trece libros, que contienen el material
- correspondiente a la geometría elemental propiamente dicha.
+ Su obra los ''Elementos'' estaba dividida en trece capítulos.
+ Contienen el material correspondiente a la geometría elemental propiamente
+ dicha.
 \end_layout
 
 \begin_layout Pause
-
-\end_layout
-
-\begin_layout AlertBlock
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
- El sistema de Euclides no era logicamente perfecto
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
- Pues faltaban premisas que Euclides admitía sin enunciar explícitamente.
- Lo cual obligaba a rehacer los fundamentos de la geometría.
-\end_layout
-
-\begin_layout BeginFrame
 
 \end_layout
 
@@ -800,52 +772,12 @@ Arquímedes
  
 \end_layout
 
-\begin_layout BeginFrame
-
-\end_layout
-
-\begin_layout Block
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-Mientras Euclides 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
- establece únicamente relaciones entre longitudes, áreas y volúmenes, mostrando
- por ejemplo, que las áreas de los círculos son como los cuadrados de los
- radios, y los volúmenes, de esferas como los cubos de los radios, Arquímedes
- presenta expresiones que permiten calcular las magnitudes correspondientes.
- Este último introdujo cinco postulados, a fin de fundamentar la geometría
- métrica.
- (Pero no pueden considerarse como postulados, ya que pueden ser demostrados).
- 
-\end_layout
-
-\begin_layout Block
-Lobachevski, 
-\end_layout
-
-\begin_layout Block
-Riemann; 
+\begin_layout Subsection
+Cambios de Paradigmas de siglo XIX
 \end_layout
 
 \begin_layout BeginFrame
-Euclides y Arquímedes
+Lobachevski y Riemann
 \end_layout
 
 \begin_layout ColumnsTopAligned
@@ -868,7 +800,7 @@ status open
 
 \end_inset
 
-Mientras Euclides 
+Lobachevski
 \begin_inset ERT
 status open
 
@@ -879,22 +811,317 @@ status open
 
 \end_inset
 
- establece únicamente relaciones entre longitudes, áreas y volúmenes, mostrando
- por ejemplo, que las áreas de los círculos son como los cuadrados de los
- radios, y los volúmenes, de esferas como los cubos de los radios
+ conservando las premisas básicas de Euclides, construye un sistema lógico.
+ Desarrollando la geometría 'imaginaria' hasta llevarla al mismo nivel en
+ que se encontraba la de Euclides.
+\end_layout
+
+\begin_layout Pause
+
+\end_layout
+
+\begin_layout Column
+5cm
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+Riemann
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ al desarrollar los principios analíticos de la geometría obtuvo, un sistema
+ geométrico que difería tanto del euclidiano como del de Lobachevski.
 \end_layout
 
 \end_deeper
+\begin_layout Subsection
+Historia Cercana
+\end_layout
+
+\begin_layout BeginFrame
+Los Fundamentos de la Geometría
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+ Hilbert 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ Enuncia un sistema completo de axiomas de la geometría euclidiana, es decir,
+ una lista de premisas básicas de las cuales se pueden obtener todos los
+ demás resultados de esta geometría.
+\end_layout
+
+\begin_layout Pause
+
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+ La Geometría 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ ha sufrido cambios en su enseñanza en las ultimas décadas, los textos de
+ Euclides fueron el indiscutible libro de texto de las escuelas para la
+ enseñanza de las matemáticas.
+ 
+\end_layout
+
+\begin_layout BeginFrame
+La matemática Moderna
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+ Cuestionamiento del conocimiento matemático
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ .
+ Para ello se llevo a cabo un seminario en Francia en la ciudad de Royaumont,
+ al cual asistieron distinguidos matemáticos, entre ellos el matemático
+ francés Nicolas Bourbaki,el cual estaba a favor de una reforma mas profunda.
+ 
+\end_layout
+
+\begin_layout Pause
+
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+ Jeans Dieudonne 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+Con su presentación, propuso un programa con el eslogan 
+\series bold
+\emph on
+\color red
+¡Abajo Euclides!
+\series default
+\emph default
+\color inherit
+.
+ Exponía la critica a la enseñanza de la geometría axiomática iniciada por
+ Euclides y seguida por Hilbert.
+ 
+\end_layout
+
+\begin_layout BeginFrame
+Matemática Moderna
+\end_layout
+
+\begin_layout AlertBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+ Jeans Dieudonne 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\lang english
+Propuso cambios que se introdujeron con el nombre de matematica moderna.
+ Los mismos no tan solo fueron en los contenidos de los programas, sino
+ en la forma, las notaciones, el vocabulario, y la visión general de la
+ materia y de sus relaciones con otras materias como la física.
+\end_layout
+
+\begin_layout Pause
+
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\lang english
+La matemática moderna 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ Al cabo dos o tres décadas, tenía mas detractores que seguidores.
+ Particularmente los educadores terminaron desechando el paradigma de la
+ Matemática Moderna acusandola en algún caso de impracticable.
+ Sin embargo, la existencia de la corriente denominada Matemática moderna
+ condujo a un 
+\color red
+desplazamiento
+\color inherit
+ de la Geometría Sintética de los contenidos curriculares de los distintos
+ niveles educativos.
+\end_layout
+
+\begin_layout BeginFrame
+
+\lang english
+Nuestra Conjetura
+\end_layout
+
+\begin_layout AlertBlock
+
+\lang english
+La historia reciente ha significado una 
+\end_layout
+
+\begin_layout Section
+
+\lang english
+Los documentos Formales
+\end_layout
+
+\begin_layout BeginFrame
+Lineamientos Curriculares
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+ El Ministerio de Educación 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ El estudio de la Geometría, tiene dos grandes objetivos
+\end_layout
+
 \begin_layout ColumnsTopAligned
 
 \end_layout
 
 \begin_deeper
 \begin_layout Column
-6cm
+5cm
 \end_layout
 
-\begin_layout Block
+\begin_layout ExampleBlock
 \begin_inset ERT
 status open
 
@@ -905,7 +1132,7 @@ status open
 
 \end_inset
 
-Arquímedes
+El estudio de las propiedades 
 \begin_inset ERT
 status open
 
@@ -916,16 +1143,52 @@ status open
 
 \end_inset
 
- presenta expresiones que permiten calcular las magnitudes correspondientes.
- Este último introdujo cinco postulados, a fin de fundamentar la geometría
- métrica.
- (Pero no pueden considerarse como postulados, ya que pueden ser demostrados).
- 
+de las figuras y de los cuerpos geométricos.
+ Involucra conocer cada vez con mayor profundidad, sus propiedades y poder
+ tenerlas disponibles para resolver diversos tipos de problemas geométricos.
+\end_layout
+
+\begin_layout Pause
+
+\end_layout
+
+\begin_layout Column
+5cm
+\end_layout
+
+\begin_layout ExampleBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+Inicio de un modo de pensar propio del saber geométrico.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ El ' pensar geométrico ' significa apoyarse en propiedades estudiadas a
+ fin anticipar relaciones no conocidas.
 \end_layout
 
 \end_deeper
 \begin_layout Section
-Documentos Actuales
+Lo que estamos haciendo
+\end_layout
+
+\begin_layout BeginFrame
+Lo que se esta Trabajando
 \end_layout
 
 \begin_layout Block
@@ -939,7 +1202,7 @@ status open
 
 \end_inset
 
- El ministerio de educación 
+ Encuesta 
 \begin_inset ERT
 status open
 
@@ -950,43 +1213,161 @@ status open
 
 \end_inset
 
-dejó
-\end_layout
-
-\begin_layout Subsection
-LINEAMIENTOS CURRICULARES
-\end_layout
-
-\begin_layout Section
-Lo que haremos
+ Por medio de ella se pretende conocer la realidad, que se presentan en
+ las aulas.
 \end_layout
 
 \begin_layout BeginFrame
-Lo que se esta Trabajando
-\begin_inset Note Note
+Encuesta
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
 
-\emph on
-N.
- del T.
-\emph default
-: En el título original pone además 
-\begin_inset Quotes eld
-\end_inset
-
-Usar Letras Capitales
-\begin_inset Quotes erd
-\end_inset
-
-.
- Esto es habitual en inglés pero no en español.
+<1->
 \end_layout
 
 \end_inset
 
+Nombre del colegio o escuela:
+\end_layout
 
+\begin_layout Enumerate
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<2->
+\end_layout
+
+\end_inset
+
+¿A qué nivel pertenece? 
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<3->
+\end_layout
+
+\end_inset
+
+¿En qué año desarrolla sus actividades? 
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<4->
+\end_layout
+
+\end_inset
+
+En su/s programa/s ¿Qué temas de geometría contempla? 
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<5->
+\end_layout
+
+\end_inset
+
+Indique un bosquejo de cronograma de estos temas.
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<6->
+\end_layout
+
+\end_inset
+
+¿Usa criterios para la selección de los contenidos de geometría que desarrolla?
+ 
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<7->
+\end_layout
+
+\end_inset
+
+Con respecto al tiempo destinado
+\color black
+ ¿Piensa que es suficiente? ¿Piensa que es poco? ¿Por qué?
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<8->
+\end_layout
+
+\end_inset
+
+¿Considera que se ha perdido la enseñanza de la geometría sintética? 
+\color black
+¿Por qué?
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<9->
+\end_layout
+
+\end_inset
+
+¿
+\color black
+Asistió a cursos de capacitación de Geometría
+\color inherit
+?
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<10>
+\end_layout
+
+\end_inset
+
+Algún comentario referente.
 \end_layout
 
 \begin_layout BeginFrame
