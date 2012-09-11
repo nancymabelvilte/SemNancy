@@ -674,11 +674,15 @@ Si se omiten detalles vitales para una demostración/implementación, dígalo
 \end_layout
 
 \begin_layout Section
-La Geometría Sintética
+Antecedentes Históricos de la Geometría
+\end_layout
+
+\begin_layout Subsection
+Grecia Antigua
 \end_layout
 
 \begin_layout BeginFrame
-Geometría Sintética 
+Euclides y Arquimedes 
 \begin_inset Note Note
 status open
 
@@ -747,42 +751,6 @@ status open
 
 \end_inset
 
- La Geometría 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
- ha sufrido cambios en su enseñanza en las ultimas décadas, los textos de
- Euclides fueron el indiscutible libro de texto de las escuelas para la
- enseñanza de las matemáticas.
- 
-\end_layout
-
-\begin_layout Pause
-
-\end_layout
-
-\begin_layout BeginFrame
-
-\end_layout
-
-\begin_layout Block
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
  Entre los mas destacados está 
 \begin_inset ERT
 status open
@@ -804,70 +772,40 @@ Arquímedes
  
 \end_layout
 
-\begin_layout Pause
+\begin_layout BeginFrame
+Lobachevski y Riemann
+\end_layout
+
+\begin_layout ColumnsTopAligned
 
 \end_layout
 
-\begin_layout Block
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
+\begin_deeper
+\begin_layout Column
+5cm
 \end_layout
 
-\end_inset
-
- Lobachevski 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
- Conservando las premisas básicas de Euclides, construye un sistema lógico.
+\end_deeper
+\begin_layout ColumnsTopAligned
+Lobachevski conservando las premisas básicas de Euclides, construye un sistema
+ lógico.
  Desarrollando la geometría 'imaginaria' hasta llevarla al mismo nivel en
  que se encontraba la de Euclides.
- 
 \end_layout
 
-\begin_layout Pause
-
+\begin_deeper
+\begin_layout Column
+5cm
 \end_layout
 
-\begin_layout Block
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
- Riemann 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
- Al desarrollar los principios analíticos de la geometría obtuvo, un sistema
- geométrico que difería tanto del euclidiano como del de Lobachevski.
+\end_deeper
+\begin_layout ColumnsTopAligned
+Riemann al desarrollar los principios analíticos de la geometría obtuvo,
+ un sistema geométrico que difería tanto del euclidiano como del de Lobachevski.
 \end_layout
 
 \begin_layout BeginFrame
-Fundamentos de la Geometría
+Los fundamentos de la Geometría
 \end_layout
 
 \begin_layout Block
@@ -895,6 +833,38 @@ status open
  Enuncia un sistema completo de axiomas de la geometría euclidiana, es decir,
  una lista de premisas básicas de las cuales se pueden obtener todos los
  demás resultados de esta geometría.
+\end_layout
+
+\begin_layout Pause
+
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+ La Geometría 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ ha sufrido cambios en su enseñanza en las ultimas décadas, los textos de
+ Euclides fueron el indiscutible libro de texto de las escuelas para la
+ enseñanza de las matemáticas.
+ 
 \end_layout
 
 \begin_layout BeginFrame
@@ -1014,11 +984,7 @@ Particularmente los educadores terminaron desechando el paradigma de la
 \end_layout
 
 \begin_layout BeginFrame
-
-\end_layout
-
-\begin_layout Section
-Documentos Actuales
+Lineamientos Curriculares
 \end_layout
 
 \begin_layout Block
@@ -1043,43 +1009,117 @@ status open
 
 \end_inset
 
- continuará...
+ El estudio de la Geometría, tiene dos grandes objetivos
 \end_layout
 
-\begin_layout Subsection
-LINEAMIENTOS CURRICULARES
+\begin_layout ColumnsTopAligned
+
 \end_layout
 
+\begin_deeper
+\begin_layout Column
+5cm
+\end_layout
+
+\begin_layout Standard
+El estudio de las propiedades de las figuras y de los cuerpos geométricos.
+ Involucra conocer cada vez con mayor profundidad, sus propiedades y poder
+ tenerlas disponibles para resolver diversos tipos de problemas geométricos.
+\end_layout
+
+\begin_layout Column
+5cm
+\end_layout
+
+\begin_layout Standard
+Inicio de un modo de pensar propio del saber geométrico.
+ El ' pensar geométrico ' significa apoyarse en propiedades estudiadas a
+ fin anticipar relaciones no conocidas.
+\end_layout
+
+\end_deeper
 \begin_layout BeginFrame
 Lo que se esta Trabajando
 \end_layout
 
-\begin_layout BeginFrame
-Presentación de encuestas
-\begin_inset Note Note
+\begin_layout Block
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
 
-\emph on
-N.
- del T.
-\emph default
-: En el título original pone además 
-\begin_inset Quotes eld
-\end_inset
-
-Usar Letras Capitales
-\begin_inset Quotes erd
-\end_inset
-
-.
- Esto es habitual en inglés pero no en español.
+{
 \end_layout
 
 \end_inset
 
+ Encuesta 
+\begin_inset ERT
+status open
 
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ Por medio de ella se pretende conocer la realidad, que se presentan en
+ las aulas.
+\end_layout
+
+\begin_layout Enumerate
+Nombre del colegio o escuela:
+\end_layout
+
+\begin_layout Enumerate
+¿A qué nivel pertenece? 
+\end_layout
+
+\begin_layout Enumerate
+¿En qué año desarrolla sus actividades? 
+\end_layout
+
+\begin_layout Enumerate
+En su/s programa/s ¿Qué temas de geometría contempla? Por ejemplo: obtención
+ de lugares geométricos, construcciones con regla y compás, y utilización
+ de software.
+ Si es ninguno ¿por qué?.
+\end_layout
+
+\begin_layout Enumerate
+Indique un bosquejo de cronograma de estos temas.
+\end_layout
+
+\begin_layout Enumerate
+¿Usa criterios para la selección de los contenidos de geometría que desarrolla?
+ Por ejemplo: directivas de la institución, continuación de o los temas
+ del año anterior, características sociales del medio, etc.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Con respecto al tiempo destinado
+\color black
+ ¿Piensa que es suficiente? ¿Piensa que es poco? ¿Por qué?
+\end_layout
+
+\begin_layout Enumerate
+¿Considera que se ha perdido la enseñanza de la geometría sintética? 
+\color black
+¿Por qué?
+\end_layout
+
+\begin_layout Enumerate
+¿
+\color black
+Asistió a cursos de capacitación de Geometría
+\color inherit
+?
+\end_layout
+
+\begin_layout Enumerate
+Algún comentario referente.
 \end_layout
 
 \begin_layout BeginFrame

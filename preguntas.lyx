@@ -2,8 +2,17 @@
 \lyxformat 413
 \begin_document
 \begin_header
-\textclass article
+\textclass amsart
+\begin_preamble
+\date{}
+\pagestyle {empty}
+\end_preamble
 \use_default_options true
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+\end_modules
 \maintain_unincluded_children false
 \language spanish
 \language_package default
@@ -27,8 +36,8 @@
 \paperfontsize default
 \spacing single
 \use_hyperref false
-\papersize default
-\use_geometry false
+\papersize legalpaper
+\use_geometry true
 \use_amsmath 1
 \use_esint 1
 \use_mhchem 1
@@ -43,6 +52,13 @@
 \shortcut idx
 \color #008000
 \end_index
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1cm
+\headheight 1cm
+\headsep 1cm
+\footskip 1cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -50,7 +66,7 @@
 \quotes_language english
 \papercolumns 1
 \papersides 1
-\paperpagestyle default
+\paperpagestyle empty
 \tracking_changes false
 \output_changes false
 \html_math_output 0
@@ -61,7 +77,23 @@
 \begin_body
 
 \begin_layout Title
-Estado actual de la Geometría Sintética
+Estado actual de la Geometría Sintética (Cuestionario)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -77,17 +109,14 @@ Nombre del colegio o escuela:
 \end_layout
 
 \begin_layout Enumerate
-¿Qué temas de geometría desarrolla (escribirlos de acuerdo al orden que
- lo presentan)? si es ninguno ¿por qué?
+En su/s programa/s ¿Qué temas de geometría contempla? Por ejemplo: obtención
+ de lugares geométricos, construcciones con regla y compás, y utilización
+ de software.
+ Si es ninguno ¿por qué?.
 \end_layout
 
 \begin_layout Enumerate
-¿Mantienen un orden la selección de sus contenidos? (
-\color red
-No le demos la impresión de que pensamos que hacen macanas, es medio brutal
- esta pregunta
-\color inherit
-)
+Indique un bosquejo de cronograma de estos temas.
 \end_layout
 
 \begin_layout Enumerate
@@ -98,46 +127,27 @@ No le demos la impresión de que pensamos que hacen macanas, es medio brutal
 \end_layout
 
 \begin_layout Enumerate
-En su/s programa/s ¿Qué temas de geometría contempla? Por ejemplo: obtención
- de lugares geométricos, construcciones con regla y compás, y utilización
- de software.
- (
-\color red
-Esta la miremos desde la pregunta 4
-\color inherit
-)
-\end_layout
-
-\begin_layout Enumerate
-Para el desarrollo de algunas de sus actividades en la enseñanza de geometría,
- ¿contempla el uso de algún software? Porqué? (
-\color red
-Esta la miremos desde la pregunta 4
-\color inherit
-)
-\end_layout
-
-\begin_layout Enumerate
-¿Cuánto tiempo designa, en cada año, para el desarrollo de el o los temas
- de geometría? 
-\color red
-¿Piensa que es suficiente? ¿Piensa que es poco? ¿Por qué?
+Con respecto al tiempo destinado
+\color black
+ ¿Piensa que es suficiente? ¿Piensa que es poco? ¿Por qué?
 \end_layout
 
 \begin_layout Enumerate
 ¿Considera que se ha perdido la enseñanza de la geometría sintética? 
-\color red
-¿Por qué
+\color black
+¿Por qué?
+\end_layout
+
+\begin_layout Enumerate
+¿
+\color black
+Asistió a cursos de capacitación de Geometría
 \color inherit
 ?
 \end_layout
 
 \begin_layout Enumerate
-¿
-\color red
-Asistió a cursos de capacitación de Geometría
-\color inherit
-?
+Algún comentario referente.
 \end_layout
 
 \end_body
