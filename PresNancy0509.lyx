@@ -1167,7 +1167,14 @@ status open
 
 de las figuras y de los cuerpos geométricos.
  Involucra conocer cada vez con mayor profundidad, sus propiedades y poder
- tenerlas disponibles para resolver diversos tipos de problemas geométricos.
+ tenerlas disponibles para resolver diversos tipos de problemas geométricos
+\begin_inset CommandInset citation
+LatexCommand cite
+key "boyer2011history"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Pause
@@ -1399,7 +1406,7 @@ Bibliografía
 \begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
-bibfiles "presen"
+bibfiles "seminario/thesisExample"
 options "apalike2"
 
 \end_inset
