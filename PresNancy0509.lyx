@@ -946,8 +946,15 @@ status open
 
  .
  Para ello se llevo a cabo un seminario en Francia en la ciudad de Royaumont,
- al cual asistieron distinguidos matemáticos, entre ellos el matemático
- francés Nicolas Bourbaki,el cual estaba a favor de una reforma mas profunda.
+ al cual asistieron distinguidos matemáticos, entre ellos el 
+\color red
+colectivo
+\color inherit
+ matemático francés 
+\color blue
+Nicolas Bourbaki
+\color inherit
+, el cual estaba a favor de una reforma mas profunda.
  
 \end_layout
 
@@ -1168,6 +1175,7 @@ status open
 de las figuras y de los cuerpos geométricos.
  Involucra conocer cada vez con mayor profundidad, sus propiedades y poder
  tenerlas disponibles para resolver diversos tipos de problemas geométricos
+ 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "boyer2011history"

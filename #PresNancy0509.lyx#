@@ -946,8 +946,15 @@ status open
 
  .
  Para ello se llevo a cabo un seminario en Francia en la ciudad de Royaumont,
- al cual asistieron distinguidos matemáticos, entre ellos el matemático
- francés Nicolas Bourbaki,el cual estaba a favor de una reforma mas profunda.
+ al cual asistieron distinguidos matemáticos, entre ellos el 
+\color red
+colectivo
+\color inherit
+ matemático francés 
+\color blue
+Nicolas Bourbaki
+\color inherit
+, el cual estaba a favor de una reforma mas profunda.
  
 \end_layout
 
@@ -1074,7 +1081,29 @@ Nuestra Conjetura
 \begin_layout AlertBlock
 
 \lang english
-La historia reciente ha significado una 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+La historia reciente 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ha significado una pulverización de la enseñanza y el aprendizaje de la
+ geometría sintética, creando varias generaciones sin instrucción en geometría.
 \end_layout
 
 \begin_layout Section
@@ -1145,7 +1174,15 @@ status open
 
 de las figuras y de los cuerpos geométricos.
  Involucra conocer cada vez con mayor profundidad, sus propiedades y poder
- tenerlas disponibles para resolver diversos tipos de problemas geométricos.
+ tenerlas disponibles para resolver diversos tipos de problemas geométricos
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "boyer2011history"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Pause
@@ -1377,7 +1414,7 @@ Bibliografía
 \begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
-bibfiles "presen"
+bibfiles "seminario/thesisExample"
 options "apalike2"
 
 \end_inset
