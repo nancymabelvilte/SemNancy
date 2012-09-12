@@ -731,7 +731,7 @@ status open
 
 \end_inset
 
- Su obra los ''Elementos'' estaba dividida en trece capítulos.
+ Su obra los ' Elementos ' estaba dividida en trece capítulos.
  Contienen el material correspondiente a la geometría elemental propiamente
  dicha.
 \end_layout
@@ -1074,7 +1074,29 @@ Nuestra Conjetura
 \begin_layout AlertBlock
 
 \lang english
-La historia reciente ha significado una 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+La historia reciente 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ha significado una pulverización de la enseñanza y el aprendizaje de la
+ geometría sintética, creando varias generaciones sin instrucción en geometría.
 \end_layout
 
 \begin_layout Section
@@ -1145,7 +1167,14 @@ status open
 
 de las figuras y de los cuerpos geométricos.
  Involucra conocer cada vez con mayor profundidad, sus propiedades y poder
- tenerlas disponibles para resolver diversos tipos de problemas geométricos.
+ tenerlas disponibles para resolver diversos tipos de problemas geométricos
+\begin_inset CommandInset citation
+LatexCommand cite
+key "boyer2011history"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Pause
@@ -1374,15 +1403,55 @@ Algún comentario referente.
 Bibliografía
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-bibfiles "presen"
-options "apalike2"
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "Ef"
+key "Efimov-1"
 
 \end_inset
 
+Efimov, N.
+ V.
+ Geometría Superior.
+ Editorial Mir Moscu.
+\end_layout
 
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "Hist"
+key "Boyer"
+
+\end_inset
+
+ Boyer, Carl B.
+ Historia de la Matemática.
+ Editorial Alianza.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "San"
+key "Luis A.Santaló"
+
+\end_inset
+
+ Santaló, Luis A.
+ La Matemática en la Escuela Secundaria.
+ Editorial Universitaria de Buenos Aires (1966).
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "Mi"
+key "Ministerio de Educación"
+
+\end_inset
+
+ Ministerio de educación
 \end_layout
 
 \begin_layout EndFrame
