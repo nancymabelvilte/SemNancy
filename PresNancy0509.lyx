@@ -731,7 +731,7 @@ status open
 
 \end_inset
 
- Su obra los ''Elementos'' estaba dividida en trece capítulos.
+ Su obra los ' Elementos ' estaba dividida en trece capítulos.
  Contienen el material correspondiente a la geometría elemental propiamente
  dicha.
 \end_layout
@@ -912,7 +912,7 @@ status open
 
 \end_inset
 
- ha sufrido cambios en su enseñanza en las ultimas décadas, los textos de
+ Ha sufrido cambios en su enseñanza en las ultimas décadas, los textos de
  Euclides fueron el indiscutible libro de texto de las escuelas para la
  enseñanza de las matemáticas.
  
@@ -944,7 +944,6 @@ status open
 
 \end_inset
 
- .
  Para ello se llevo a cabo un seminario en Francia en la ciudad de Royaumont,
  al cual asistieron distinguidos matemáticos, entre ellos el 
 \color red
@@ -1026,7 +1025,7 @@ status open
 
 
 \lang english
-Propuso cambios que se introdujeron con el nombre de matematica moderna.
+ Propuso cambios que se introdujeron con el nombre de matematica moderna.
  Los mismos no tan solo fueron en los contenidos de los programas, sino
  en la forma, las notaciones, el vocabulario, y la visión general de la
  materia y de sus relaciones con otras materias como la física.
@@ -1049,7 +1048,7 @@ status open
 
 
 \lang english
-La matemática moderna 
+ La matemática moderna 
 \begin_inset ERT
 status open
 
@@ -1091,7 +1090,7 @@ status open
 
 \end_inset
 
-La historia reciente 
+ La historia reciente 
 \begin_inset ERT
 status open
 
@@ -1102,7 +1101,7 @@ status open
 
 \end_inset
 
-ha significado una pulverización de la enseñanza y el aprendizaje de la
+ Ha significado una pulverización de la enseñanza y el aprendizaje de la
  geometría sintética, creando varias generaciones sin instrucción en geometría.
 \end_layout
 
@@ -1174,6 +1173,7 @@ status open
 
 de las figuras y de los cuerpos geométricos.
  Involucra conocer cada vez con mayor profundidad, sus propiedades y poder
+<<<<<<< HEAD
  tenerlas disponibles para resolver diversos tipos de problemas geométricos
  
 \begin_inset CommandInset citation
@@ -1183,6 +1183,9 @@ key "boyer2011history"
 \end_inset
 
 .
+=======
+ tenerlas disponibles para resolver diversos tipos de problemas geométricos.
+>>>>>>> 707cc7d9391b4df729bfa9fd9f45ba0096f6be96
 \end_layout
 
 \begin_layout Pause
@@ -1411,15 +1414,56 @@ Algún comentario referente.
 Bibliografía
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-bibfiles "seminario/thesisExample"
-options "apalike2"
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "Ef"
+key "Efimov-1"
 
 \end_inset
 
+Efimov, N.
+ V.
+ Geometría Superior.
+ Editorial Mir Moscu.
+\end_layout
 
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "Hist"
+key "Boyer"
+
+\end_inset
+
+ Boyer, Carl B.
+ Historia de la Matemática.
+ Editorial Alianza.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "San"
+key "Luis A.Santaló"
+
+\end_inset
+
+ Santaló, Luis A.
+ La Matemática en la Escuela Secundaria.
+ Editorial Universitaria de Buenos Aires (1966).
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "Mi"
+key "Ministerio de Educación"
+
+\end_inset
+
+ Ministerio de Educación.
+ Lineamientos Curriculares
 \end_layout
 
 \begin_layout EndFrame
