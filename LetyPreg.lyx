@@ -1,0 +1,218 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass amsart
+\begin_preamble
+\date{}
+\pagestyle {empty}
+\end_preamble
+\use_default_options true
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+\end_modules
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize legalpaper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1cm
+\headheight 1cm
+\headsep 1cm
+\footskip 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle empty
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Estado actual de la Geometría Sintética (Cuestionario)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Nombre del colegio o escuela:
+\begin_inset Newline newline
+\end_inset
+
+Ejercito del Norte 529
+\end_layout
+
+\begin_layout Enumerate
+¿A qué nivel pertenece? 
+\begin_inset Newline newline
+\end_inset
+
+Secundario
+\end_layout
+
+\begin_layout Enumerate
+¿En qué año desarrolla sus actividades? 
+\begin_inset Newline newline
+\end_inset
+
+primero, segundo y cuarto
+\end_layout
+
+\begin_layout Enumerate
+En su/s programa/s ¿Qué temas de geometría contempla? Por ejemplo: obtención
+ de lugares geométricos, construcciones con regla y compás, y utilización
+ de software.
+ Si es ninguno ¿por qué?.
+\begin_inset Newline newline
+\end_inset
+
+Primero: Trazado de bisec, mediat, circ ins, circuns, ang entre paralelas,
+ simetr´ias, traslaciones, rotaciones.
+ perimetro y superficie, reconocimiento de cuerpos
+\begin_inset Newline newline
+\end_inset
+
+Segundo: Lo mismo que en primero pero con Soft GeoGebra.
+ Cuadrilateros.
+ Poligonos cóncavos y convexos.
+ Cuerpos poliedros y redondos.
+ Trigonometria
+\begin_inset Newline newline
+\end_inset
+
+Cuarto: No tienen geometría.
+\end_layout
+
+\begin_layout Enumerate
+Indique un bosquejo de cronograma de estos temas.
+\begin_inset Newline newline
+\end_inset
+
+Primero: Cuando empiezan las clases.
+\begin_inset Newline newline
+\end_inset
+
+Segundo: Segundo trimestre
+\end_layout
+
+\begin_layout Enumerate
+¿Usa criterios para la selección de los contenidos de geometría que desarrolla?
+ Por ejemplo: directivas de la institución, continuación de o los temas
+ del año anterior, características sociales del medio, etc.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Continuaci´on de los temas de los años anteriores.
+ Se reunen con las maestras de los septimos y profesores.
+\end_layout
+
+\begin_layout Enumerate
+Con respecto al tiempo destinado
+\color black
+ ¿Piensa que es suficiente? ¿Piensa que es poco? ¿Por qué?
+\begin_inset Newline newline
+\end_inset
+
+Es poco.
+ No pueden aprender.
+ 
+\end_layout
+
+\begin_layout Enumerate
+¿Considera que se ha perdido la enseñanza de la geometría sintética? 
+\color black
+¿Por qué?
+\begin_inset Newline newline
+\end_inset
+
+No.
+\end_layout
+
+\begin_layout Enumerate
+¿
+\color black
+Asistió a cursos de capacitación de Geometría
+\color inherit
+?
+\begin_inset Newline newline
+\end_inset
+
+Si.
+ De geometría con GeoGebra.
+\end_layout
+
+\begin_layout Enumerate
+Algún comentario referente.
+\begin_inset Newline newline
+\end_inset
+
+De los diseños curriculares que no aporto nada.
+ Luego la bibliograf´ia era inutil pero abudante.
+ Tienen que especificar donde fue necesario el uso de esa bibliograf´ia.
+\end_layout
+
+\end_body
+\end_document
