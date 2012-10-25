@@ -1,0 +1,207 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass amsart
+\begin_preamble
+\date{}
+\pagestyle {empty}
+\end_preamble
+\use_default_options true
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+\end_modules
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize legalpaper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1cm
+\headheight 1cm
+\headsep 1cm
+\footskip 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle empty
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Estado actual de la Geometría Sintética (Cuestionario)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Nombre del colegio o escuela:
+\begin_inset Newline newline
+\end_inset
+
+BSPA 7065
+\end_layout
+
+\begin_layout Enumerate
+¿A qué nivel pertenece? 
+\begin_inset Newline newline
+\end_inset
+
+EGB 3° Ciclo
+\end_layout
+
+\begin_layout Enumerate
+¿En qué año desarrolla sus actividades? 
+\begin_inset Newline newline
+\end_inset
+
+Primer Año
+\end_layout
+
+\begin_layout Enumerate
+En su/s programa/s ¿Qué temas de geometría contempla? Por ejemplo: obtención
+ de lugares geométricos, construcciones con regla y compás, y utilización
+ de software.
+ Si es ninguno ¿por qué?.
+\begin_inset Newline newline
+\end_inset
+
+Hay uno que no da geo.
+ Pero hay un POI donde ve temas de Geometría.
+ Los elementos geométricos, triángulos, cuadriláteros, propiedades.
+ Paralelas cortadas por una transversal.
+ (Observación de relaciones, no deducción)
+\end_layout
+
+\begin_layout Enumerate
+Indique un bosquejo de cronograma de estos temas.
+\begin_inset Newline newline
+\end_inset
+
+Desde el mes de Julio - Agosto y Octubre.
+\end_layout
+
+\begin_layout Enumerate
+¿Usa criterios para la selección de los contenidos de geometría que desarrolla?
+ Por ejemplo: directivas de la institución, continuación de o los temas
+ del año anterior, características sociales del medio, etc.
+\begin_inset Newline newline
+\end_inset
+
+Reuniones de departamento.
+ POI.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Con respecto al tiempo destinado
+\color black
+ ¿Piensa que es suficiente? ¿Piensa que es poco? ¿Por qué?
+\begin_inset Newline newline
+\end_inset
+
+2 horas cátedra (35 minutos reales) No, SI.
+ En el tiempo destinado no se puede llegar a concluir con la planificación.
+\end_layout
+
+\begin_layout Enumerate
+¿Considera que se ha perdido la enseñanza de la geometría sintética? 
+\color black
+¿Por qué?
+\begin_inset Newline newline
+\end_inset
+
+Si.
+ Porque siempre se prioriza el álgebra porque es lo que se necesita como
+ herramienta básica para otros estudios.
+\begin_inset space ~
+\end_inset
+
+En el año superior tratan con cosas que requieren habilidades en temas algebraic
+os de este año.
+\end_layout
+
+\begin_layout Enumerate
+¿
+\color black
+Asistió a cursos de capacitación de Geometría
+\color inherit
+?
+\begin_inset Newline newline
+\end_inset
+
+Cursos de Geogebra del Conectar Igualdad.
+\end_layout
+
+\begin_layout Enumerate
+Algún comentario referente.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
