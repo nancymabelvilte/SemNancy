@@ -1,0 +1,367 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass amsart
+\use_default_options false
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+enumitem
+\end_modules
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 2
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+El Problema de La Geometría Sintética en La Educación
+\end_layout
+
+\begin_layout Author
+Antonio Sángari
+\end_layout
+
+\begin_layout Address
+Facultad de Ciencias Exactas - Universidad Nacional de Salta
+\end_layout
+
+\begin_layout Email
+asangari2000@gmail.com
+\end_layout
+
+\begin_layout Abstract
+Este trabajo se presenta una propuesta de organización de contenidos para
+ la recuperación de la geometría sintética en la educación argentina.
+ Primeramente se hará una breve reseña histórica que puede indicar la razón
+ del evidente olvido de la geometría sintética.
+ Luego desarrollaremos la propuesta, que consiste en incorporar una asignatura
+ de geometría en la que se desarrolle temas como construcciones geométricas
+ y teoremas clásicos de la geometría elemental.
+\end_layout
+
+\begin_layout Keywords
+Enseñanza de Geometría, Geometría Sintética, Construcciones Geométricas.
+\end_layout
+
+\begin_layout Section
+Reseña Histórica
+\end_layout
+
+\begin_layout Subsection
+La matemática griega antigua
+\end_layout
+
+\begin_layout Block
+Si situamos el inicio de las matemáticas, en el sentido que hoy la conocemos,
+ tenemos que mencionar el trabajo de los antiguos griegos.
+ Entre ellos dos son paradigmáticos: Euclides y Arquímedes.
+ Euclides su obra de 13 tomos, los 
+\begin_inset Quotes eld
+\end_inset
+
+Elementos
+\begin_inset Quotes erd
+\end_inset
+
+, le da especial atención a la Geometría.
+ Incluso los tomos que suelen llamarles aritméticos sirven de preludio para
+ ulteriores tratados de Geometría.
+ Este material se usó por siglos para la enseñanza de la matemática en especial
+ para la enseñanza de la Geometría.
+ 
+\end_layout
+
+\begin_layout Block
+Arquímedes, que para algunos es el más grande matemático de la antigüedad,
+ amplió la listas de postulados geométricos, y completo la exposición de
+ Euclides en la teoría de medición de longitudes, áreas y volúmenes.
+ 
+\end_layout
+
+\begin_layout Standard
+En estos tiempos, no se hubiera concebido matemática sin la geometría.
+ Basta recordar que el la Academia de Platón, la frase de ingreso era 
+\begin_inset Quotes eld
+\end_inset
+
+No entre si no sabe Geometría
+\begin_inset Quotes erd
+\end_inset
+
+.
+ También es conocido que muchas universidades exigían como requisito indispensab
+le de admisión, el conocimiento de la interesante demostración del problema
+ llamado Pons Ansinorum (Puente del Asno) que sencillamente es probar que
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Los triángulos isósceles tienes ángulos de la base congruentes
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Con el pasar del tiempo, el estado privilegiado de la geometría no cambió.
+ Se puede recordar la frase de Galileo :
+\begin_inset Quotes erd
+\end_inset
+
+El universo ...
+ Está escrito en lenguaje matemático, y las letras son triángulos, círculos
+ y otras figuras geométricas, sin las cuales es humanamente imposible entender
+ una sola palabra.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Subsection
+Cambios de Paradigmas de siglo XIX
+\end_layout
+
+\begin_layout Standard
+En los tiempos del gran matemático Carl Friedrich Gauss, que se decidió
+ a las matemáticas a edad temprana en virtud de sus descubrimientos sobre
+ la construcción del heptadecágono; ocurrió un cambio importante en la forma
+ en que se percibía la geometría.
+ 
+\end_layout
+
+\begin_layout Standard
+Dos matemáticos, en forma independiente, encontraron una forma de construir
+ otra geometría perfectamente válida.
+ Ellos fueron Lobachevski y Bolyai.
+ Lobachevski, conservando las premisas básicas de Euclides, construye un
+ sistema lógico, desarrollando la geometría 'imaginaria' hasta llevarla
+ al mismo nivel en que se encontraba la de Euclides.
+ Aparentemente, el propio Gauss, había llegado a resultados similares pero
+ no quiso publicar estos resultados por temor a ser malinterpretado.
+ La geometría de Lobachevski postula que hay una recta 
+\begin_inset Formula $r$
+\end_inset
+
+ y un punto 
+\begin_inset Formula $P$
+\end_inset
+
+ exterior a 
+\begin_inset Formula $r$
+\end_inset
+
+ por el que pasa más de una paralela.
+ Esta situación significó una revolución en el seno de la matemática.
+ Ya no podía decirse como Platón 
+\begin_inset Quotes eld
+\end_inset
+
+Dios hace Geometría
+\begin_inset Quotes erd
+\end_inset
+
+, especialmente porque la 
+\begin_inset Quotes eld
+\end_inset
+
+geometría
+\begin_inset Quotes erd
+\end_inset
+
+ deja de tener bordes tan decisivos.
+ 
+\end_layout
+
+\begin_layout Standard
+Tiempo después Riemann al desarrollar los principios analíticos de la geometría
+ obtuvo, un sistema geométrico que difería tanto del euclidiano como del
+ de Lobachevski.
+ En el sistema de Riemann ninguna recta tiene paralelas por puntos exteriores.
+ 
+\end_layout
+
+\begin_layout Standard
+Todo esto condujo a que no se hablara de 
+\begin_inset Quotes eld
+\end_inset
+
+Geometría
+\begin_inset Quotes erd
+\end_inset
+
+ a secas, sino que a la 
+\begin_inset Quotes eld
+\end_inset
+
+vieja
+\begin_inset Quotes erd
+\end_inset
+
+ geometría se le llamó 
+\begin_inset Quotes eld
+\end_inset
+
+Geometría Euclidiana
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection
+Historia Cercana
+\end_layout
+
+\begin_layout Block
+A comienzos del siglo pasado se iniciaron intensos esfuerzos por reducir
+ la matemática a la lógica.
+ Entre otras cosas porque se reconoce que la geometría plana, tal como la
+ expuso Euclides en sus elementos, deja mucho que desear en su presentación
+ lógica.
+ Probablemente la mejor exposición lógica de la Geometría de Euclides haya
+ sido David Hilbert.
+ Hilbert enuncia un sistema completo de axiomas de la geometría euclidiana,
+ es decir, una lista de premisas básicas de las cuales se pueden obtener
+ todos los demás resultados de esta geometría.
+ En educación, resultó que se considere como adecuado explicar este sistema
+ axiomático a jóvenes de instrucción intermedia.
+ Naturalmente, estos planes cayeron rápidamente en desuso.
+\end_layout
+
+\begin_layout Block
+Años después, el mundo matemático preocupado por la instrucción de las generacio
+nes jóvenes, decidió tomar acciones en educación, para paliar los grandes
+ cambios que la matemática estaba sufriendo.
+ Para ello se llevo a cabo un seminario en Francia en la ciudad de Royaumont,
+ al cual asistieron distinguidos matemáticos, entre ellos el 
+\color red
+colectivo
+\color inherit
+ matemático francés 
+\color blue
+Nicolas Bourbaki
+\color inherit
+, el cual estaba a favor de una reforma mas profunda.
+ Uno de los representantes de este colectivo fue el matemático francés Jeans
+ Dieudonne.
+ Con su presentación, propuso un programa con el eslogan 
+\series bold
+\emph on
+\color red
+¡Abajo Euclides!
+\series default
+\emph default
+\color inherit
+.
+ Exponía la critica a la enseñanza de la geometría axiomática iniciada por
+ Euclides y seguida por Hilbert.
+ Este eslogan se puede entender también como Abajo la Geometría Sintética,
+ aunque aparentemente no fue exactamente ese el sentido que Dieudonne quiso
+ dar.
+ Jeans Dieudonne
+\lang english
+ 
+\lang spanish
+propuso
+\lang english
+ 
+\lang spanish
+cambios
+\lang english
+ 
+\lang spanish
+que se introdujeron con el nombre de 
+\color red
+matemática moderna
+\color inherit
+.
+ Los mismos no tan solo fueron en los contenidos de los programas, sino
+ en la forma, las notaciones, el vocabulario, y la visión general de la
+ materia y de sus relaciones con otras materias como la física.
+ La cuestión es que se sacó en algunos casos todo vestigio de la geometría
+ sintética de los contenidos escolares.
+ Todo esto sucedió en noviembre de 1959.
+\end_layout
+
+\begin_layout Block
+
+\lang english
+La 
+\lang spanish
+matemática moderna Al cabo dos o tres décadas, tenía mas detractores que
+ seguidores.
+ Particularmente los educadores terminaron desechando el paradigma de la
+ Matemática Moderna acusándola en algún caso de impracticable.
+ 
+\end_layout
+
+\begin_layout Standard
+Estos hecho configurarían, al parecer, generaciones sin una adecuada instrucción
+ en la Geometría Sintética.
+\end_layout
+
+\begin_layout Section
+Análisis de la Situación Actual
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\end_body
+\end_document
